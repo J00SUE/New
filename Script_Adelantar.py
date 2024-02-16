@@ -89,10 +89,14 @@ listaPaciente[123] = p1
 listaPaciente[234] = p2
 print(listaPaciente)
 
+print("H")
+
 # pacientes.asignarNombre('Juan José Trejo')
 # pacientes.asignarCedula(1085341857)
 # pacientes.asignarGenero('Masculino')
 # print(pacientes.verNombre())
 # print(pacientes.verCedula())
 # print(pacientes.verGenero())
+
+
 
